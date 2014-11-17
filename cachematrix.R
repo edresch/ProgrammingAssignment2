@@ -1,3 +1,6 @@
+# assignment week 3 r programming
+# edresch
+
 makeCacheMatrix <- function(x = matrix()) {
         ## This generator will create a matrix object
         ## s (the inverse) will be set to NULL every time
